@@ -17,18 +17,18 @@
 <details>
 <summary>02 웹 인터페이스 구축을 위한 Vue.js</summary>
 
-- [ ] 01 Node.js 기초
-- [ ] 02 파일 관리하기
+- [x] 01 Node.js 기초
+- [x] 02 파일 관리하기
 - [x] 03 개발환경 구축, ES6
 - [x] 04 템플릿, 디렉티브
 - [x] 05 Vue 인스턴스, 이벤트
 - [x] 06 부트스트랩
 - [x] 07 스타일 처리
 - [x] 08 단일 파일 컴포넌트
-- [ ] 09 컴포넌트 심화
-- [ ] 10 Composition API
-- [ ] 11 라우팅
-- [ ] 12 Axios 
+- [x] 09 컴포넌트 심화
+- [x] 10 Composition API
+- [x] 11 라우팅
+- [x] 12 Axios 
 
 </details>
 
@@ -49,17 +49,17 @@
 <details>
 <summary>02 웹 인터페이스 구축을 위한 Vue.js</summary>
 
-- [ ] 01 Node.js 기초
-- [ ] 02 파일 관리하기
+- [x] 01 Node.js 기초
+- [x] 02 파일 관리하기
 - [x] 03 개발환경 구축, ES6
 - [x] 04 템플릿, 디렉티브
 - [x] 05 Vue 인스턴스, 이벤트
 - [x] 06 부트스트랩
 - [x] 07 스타일 처리
 - [x] 08 단일 파일 컴포넌트
-- [ ] 09 컴포넌트 심화
-- [ ] 10 Composition API
-- [ ] 11 라우팅
-- [ ] 12 Axios
+- [x] 09 컴포넌트 심화
+- [x] 10 Composition API
+- [x] 11 라우팅
+- [x] 12 Axios
 
 </details>
