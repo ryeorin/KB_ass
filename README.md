@@ -2,15 +2,19 @@
 
 <details>
 <summary>📂 01 웹 표준 HTML/CSS/JavaScript</summary>
+  
 - [x] 01 HTML 기본 태그
 - [x] 02 입력 양식 및 구조 태그
 - [x] 03 CSS 기초, 속성
 - [x] 04 레이아웃, 반응형 웹
 - [x] 05 자바스크립트 기본 문법
 - [x] 06 문서 객체 모델
+
 </details>
 
-### 02 웹 인터페이스 구축을 위한 Vue.js
+<details>
+<summary>📂 02 웹 인터페이스 구축을 위한 Vue.js</summary>
+  
 - [x] 01 Node.js 기초
 - [x] 02 파일 관리하기
 - [x] 03 개발환경 구축, ES6
@@ -23,9 +27,13 @@
 - [x] 10 Composition API
 - [x] 11 라우팅
 - [x] 12 Axios
+</details>
 
 ## 심화
-### 01 웹 표준 HTML/CSS/JavaScript
+
+<details>
+<summary>📂 01 웹 표준 HTML/CSS/JavaScript</summary>
+
 - [x] 01 HTML 기본 태그
 - [x] 02 입력 양식 및 구조 태그
 - [x] 03 CSS 기초, 속성
@@ -33,7 +41,12 @@
 - [x] 05 자바스크립트 기본 문법
 - [x] 06 문서 객체 모델
 
-### 02 웹 인터페이스 구축을 위한 Vue.js
+</details>
+
+
+<details>
+<summary>📂 02 웹 인터페이스 구축을 위한 Vue.js</summary>
+  
 - [x] 01 Node.js 기초
 - [x] 02 파일 관리하기
 - [x] 03 개발환경 구축, ES6
@@ -46,3 +59,5 @@
 - [x] 10 Composition API
 - [x] 11 라우팅
 - [x] 12 Axios
+
+</details>
